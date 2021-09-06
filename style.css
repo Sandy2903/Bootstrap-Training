@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.gris{
+    background-color: gray;
+    height: 30px;
+}
+.container{
+    background-color: violet;
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.container .row .col-lg-2 p{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.container .row .col-lg-4 p{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.container .row .col-xs-2 p{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.container .row .col-lg-12 p{
+    text-align: center;
+}
+.container .row .col-lg-8 p{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.col{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.row1{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+}
+.container .row .col-md-4 p{
+    border: black;
+    outline: 2px solid #000;
+    text-align: center;
+    width: 200px;
+}
+.container1 .col-lg-12 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+.container1 .col-lg-4 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+.container1 .col-lg-5 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+.container1 .col-lg-7 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+.container1 .col-lg-6 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+.col-xs-7 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.col-xs-5 p{
+    border: rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+    width: auto;
+    height: auto;
+}
